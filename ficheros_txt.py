@@ -1,0 +1,1 @@
+with open("F/trabajos_python/tercera_evaluacion/fichero.txt", "r") as fichero:    for linea in fichero:        print(linea)
